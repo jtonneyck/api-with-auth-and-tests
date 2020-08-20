@@ -9,7 +9,7 @@
     "seed-db": "mongoimport beers.json --db iron-beer --collection beers --jsonArray"
   },
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "chai": "^4.2.0",
     "cookie-parser": "~1.4.3",
     "cors": "^2.8.5",
